@@ -1,0 +1,32 @@
+
+=== resultado del cuestionario ===
+fecha: 2024-11-07 15:49:32
+ip cliente: 172.29.39.118
+
+pregunta 1: ¿Cual es el continente más grande?
+respuesta del cliente: asia
+respuesta correcta: Asia
+estado: correcta
+
+pregunta 2: ¿Quién pinto la Mona Lisa?
+respuesta del cliente: leonardo da vinci
+respuesta correcta: Leonardo da Vinci
+estado: correcta
+
+pregunta 3: ¿En qué año se fundo la ONU?
+respuesta del cliente: 238
+respuesta correcta: 1945
+estado: incorrecta
+
+pregunta 4: ¿Cual es el rio mas largo del mundo?
+respuesta del cliente: nilo
+respuesta correcta: Amazonas
+estado: incorrecta
+
+pregunta 5: ¿Cual es el idioma más hablado en el mundo?
+respuesta del cliente: espa¤ol
+respuesta correcta: Mandarín
+estado: incorrecta
+
+puntaje final: 8 de 20
+================================
